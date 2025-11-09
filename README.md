@@ -1,12 +1,12 @@
 # Baby Dragon Hatchling Continual Learning (BDH-CL)
 
-**Based on**: [pathwaycom/bdh](https://github.com/pathwaycom/bdh)
+**Fork of**: [pathwaycom/bdh](https://github.com/pathwaycom/bdh)
 
 ***
 
 ## Introduction
 
-This repository extends the original Baby Dragon Hatchling (BDH) architecture, a biologically inspired large language model bridging transformers and neural computation, by integrating **continual learning** mechanisms inspired by biological synaptic plasticity.
+This repository attempts to extend the original Baby Dragon Hatchling (BDH) architecture, a biologically inspired large language model bridging transformers and neural computation, by integrating **continual learning** mechanisms inspired by biological synaptic plasticity.
 
 The key contribution of this fork is the implementation of **Adaptive Synaptic Consolidation**, enabling BDH to learn multiple tasks sequentially without catastrophic forgetting, in the spirit of Zenke et al.'s *Continual Learning Through Synaptic Intelligence* (2017).
 
@@ -53,7 +53,9 @@ The key contribution of this fork is the implementation of **Adaptive Synaptic C
 
 ## Credits
 
-This project builds upon and extends the original [Baby Dragon Hatchling repository by Pathway](https://github.com/pathwaycom/bdh). The original authors' foundational work on biologically inspired neural architectures underpins this extension.
+This project builds upon and extends the original [Baby Dragon Hatchling repository by Pathway](https://github.com/pathwaycom/bdh). 
+
+The original authors' foundational work on biologically inspired neural architectures underpins this extension.
 
 ***
 
