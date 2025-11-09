@@ -23,7 +23,7 @@ The key contribution of this fork is the implementation of **Adaptive Synaptic C
 
 ### Benchmarking Suite
 
-- Permuted MNIST
+- Permuted MNIST (Simple)
 
 <img src="res/PERMUTED_MNIST.png" width="600"/>
 
