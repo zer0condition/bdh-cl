@@ -25,19 +25,19 @@ The key contribution of this fork is the implementation of **Adaptive Synaptic C
 
 - Permuted MNIST (Simple)
 
-<img src="res/PERMUTED_MNIST.png" width="500"/>
+<img src="res/PERMUTED_MNIST.PNG" width="500"/>
 
 - Rotated MNIST (Simple)
 
-<img src="res/ROTATED_MNIST.png" width="500"/>
+<img src="res/ROTATED_MNIST.PNG" width="500"/>
 
 - Split CIFAR (Simple)
 
-<img src="res/SPLIT_CIFAR.png" width="500"/>
+<img src="res/SPLIT_CIFAR.PNG" width="500"/>
 
 - Sequence (Simple)
 
-<img src="res/SEQUENCE.png" width="500"/>
+<img src="res/SEQUENCE.PNG" width="500"/>
 
 ***
 
