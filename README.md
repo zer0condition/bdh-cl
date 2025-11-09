@@ -23,8 +23,15 @@ The key contribution of this fork is the implementation of **Adaptive Synaptic C
 
 ## Benchmarking Suite
 
-| ![Permuted MNIST](res/PERMUTED_MNIST.PNG){Permuted MNIST (Simple)} | ![Rotated MNIST](res/ROTATED_MNIST.PNG){Rotated MNIST (Simple) |
-| ![Split CIFAR](res/SPLIT_CIFAR.PNG){Split CIFAR (Simple)}      | ![Sequence](res/SEQUENCE.PNG){Sequence (Simple)}         |
+## Benchmarking Suite
+
+| ![Permuted MNIST](res/PERMUTED_MNIST.PNG){width=250} | ![Rotated MNIST](res/ROTATED_MNIST.PNG){width=250} |
+|:----------------------------------------------------:|:-------------------------------------------------:|
+| Permuted MNIST (Simple)                              | Rotated MNIST (Simple)                            |
+
+| ![Split CIFAR](res/SPLIT_CIFAR.PNG){width=250}      | ![Sequence](res/SEQUENCE.PNG){width=250}         |
+|:----------------------------------------------------:|:-------------------------------------------------:|
+| Split CIFAR (Simple)                                 | Sequence (Simple)                                 |
 
 
 ***
