@@ -52,13 +52,19 @@ The key contribution of this fork is the implementation of **Adaptive Synaptic C
 - Train BDHC with continual learning enabled:
 
   ```bash
-  python train.py --continual_learning
+   train.py --continual_learning
   ```
 
-- Run standard benchmarks:
+- Run simple benchmarks:
 
   ```bash
-  python simple_benchmark.py --benchmark permuted_mnist --num_tasks 3 --epochs 5
+   simple_benchmark.py --benchmark permuted_mnist --num_tasks 5 --epochs 10
+  
+   simple_benchmark.py --benchmark split_cifar --num_tasks 5 --epochs 10
+  
+   simple_benchmark.py --benchmark rotated_mnist --num_tasks 10 --epochs 10
+  
+   simple_benchmark.py --benchmark sequence --num_tasks 5 --epochs 10
   ```
 
 ***
