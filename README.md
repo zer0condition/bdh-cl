@@ -71,7 +71,7 @@ The original authors' foundational work on biologically inspired neural architec
 ***
 
 ## References
-- Vibe coding was somehow involved; Py is not my primary language.
+- Vibe coding was involved; Py is not my primary language.
 - Zenke et al., *Continual Learning Through Synaptic Intelligence*, ICML 2017
 - Kosowski et al., *The Dragon Hatchling: The Missing Link between the Transformer and Models of the Brain*, arXiv 2025
 
