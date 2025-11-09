@@ -21,23 +21,16 @@ The key contribution of this fork is the implementation of **Adaptive Synaptic C
 - Integrated **path integral online importance measures** for efficient tracking of weight significance during training.
 - Supported **multi-task sequential training** enabling scalable lifelong learning.
 
-### Benchmarking Suite
+## Benchmarking Suite
 
-- Permuted MNIST (Simple)
+| ![Permuted MNIST](res/PERMUTED_MNIST.PNG){width=250} | ![Rotated MNIST](res/ROTATED_MNIST.PNG){width=250} |
+|:----------------------------------------------------:|:-------------------------------------------------:|
+| Permuted MNIST (Simple)                              | Rotated MNIST (Simple)                            |
 
-<img src="res/PERMUTED_MNIST.PNG" width="500"/>
+| ![Split CIFAR](res/SPLIT_CIFAR.PNG){width=250}      | ![Sequence](res/SEQUENCE.PNG){width=250}         |
+|:----------------------------------------------------:|:-------------------------------------------------:|
+| Split CIFAR (Simple)                                 | Sequence (Simple)                                 |
 
-- Rotated MNIST (Simple)
-
-<img src="res/ROTATED_MNIST.PNG" width="500"/>
-
-- Split CIFAR (Simple)
-
-<img src="res/SPLIT_CIFAR.PNG" width="500"/>
-
-- Sequence (Simple)
-
-<img src="res/SEQUENCE.PNG" width="500"/>
 
 ***
 
